@@ -1,7 +1,7 @@
 {
   "name": "understanding-ts",
   "version": "1.0.0",
-  "description": "",
+  "description": "��#\u0000 \u0000s\u0000c\u0000h\u0000w\u0000-\u0000t\u0000s\u0000-\u0000l\u0000e\u0000c\u0000t\u00000\u00000\u00009\u0000\r\u0000 \u0000",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,5 +11,13 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igoryen/schw-ts-lect009.git"
+  },
+  "bugs": {
+    "url": "https://github.com/igoryen/schw-ts-lect009/issues"
+  },
+  "homepage": "https://github.com/igoryen/schw-ts-lect009#readme"
 }
