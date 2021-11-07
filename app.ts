@@ -1,4 +1,4 @@
-const person = {
+const person: {} = {
     name: "Igor",
     age: 40
 };
